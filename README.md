@@ -1,15 +1,15 @@
-#  Netflix Clone (HTML & CSS)
+##  Netflix Clone (HTML & CSS)
 
 A responsive Netflix landing page clone built using pure HTML and CSS.  
 This project replicates the UI design of Netflix homepage for learning and practice purposes.
 
----
+
 
 ##  Live Demo
 
 (Add your deployed link here if hosted on GitHub Pages)
 
----
+
 
 ##  Features
 
@@ -20,7 +20,7 @@ This project replicates the UI design of Netflix homepage for learning and pract
 -  Dark Theme UI
 -  Basic Responsive Design
 
----
+
 
 ##  Technologies Used
 
@@ -29,7 +29,7 @@ This project replicates the UI design of Netflix homepage for learning and pract
 - Flexbox
 - CSS Hover Effects
 
----
+
 
 ## 📂 Project Structure
 
@@ -50,7 +50,7 @@ This project is created for:
 - Understanding Flexbox
 - Building strong portfolio projects
 
----
+
 
 ##  Future Improvements
 
@@ -60,13 +60,13 @@ This project is created for:
 - Add footer section
 - Add JavaScript for interactivity
 
----
+
 
 ##  Author
 
 Himanshee
 
----
+
 
 ##  Disclaimer
 
