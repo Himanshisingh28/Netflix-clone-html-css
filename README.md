@@ -3,9 +3,6 @@
 A responsive Netflix landing page clone built using pure HTML and CSS.  
 This project replicates the UI design of Netflix homepage for learning and practice purposes.
 
-##  Live Demo
-
-(Add your deployed link here if hosted on GitHub Pages)
 
 ##  Features
 
@@ -53,10 +50,3 @@ This project is created for:
 ##  Author
 
 Himanshee
-
-
-
-##  Disclaimer
-
-This project is only for educational purposes.  
-Netflix is a registered trademark of Netflix, Inc.
